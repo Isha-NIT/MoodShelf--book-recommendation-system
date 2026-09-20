@@ -1,0 +1,17 @@
+kagglehub
+pandas
+numpy
+matplotlib
+seaborn
+python-dotenv
+langchain-core
+langchain-community
+langchain-ollama
+langchain-chroma
+transformers
+torch
+tqdm
+gradio
+ipywidgets
+notebook
+ipykernel

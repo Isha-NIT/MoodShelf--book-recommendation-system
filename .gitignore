@@ -1,0 +1,25 @@
+# 1. Virtual Environments
+myenv/
+venv/
+env/
+
+# 2. Secrets & Configuration
+.env
+
+# 3. Vector Databases
+chroma_db/
+
+# 4. Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# 5. Jupyter Notebooks
+.ipynb_checkpoints/
+
+# 6. IDE / Editor Folders
+.vscode/
+
+# 7. OS Generated Files
+.DS_Store
+Thumbs.db
